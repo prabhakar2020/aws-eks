@@ -122,10 +122,10 @@ metadata:
   name: my-application-secrets
 type: Opaque
 data:
-  DB_USERNAME: JWT_SECRET_KEY=
-  DB_PASSWORD: AUTH_SECRET_KEY=
-  DB_HOSTNAME: GATEWAY_USERNAME==
-  DB_PORT: GATEWAY_PASSWORD==
+  DB_USERNAME: DB_USERNAME=
+  DB_PASSWORD: DB_PASSWORD=
+  DB_HOSTNAME: DB_HOSTNAME==
+  DB_PORT: DB_PORT==
 ```
 ### 5. Kubernetes deployment
 ##### 5.1 Deployment via manifest files
