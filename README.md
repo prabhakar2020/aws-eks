@@ -49,7 +49,7 @@ With Amazon EKS, AWS takes care of the underlying Kubernetes infrastructure, all
 ##### 3.2. Update EKS Kubernetes configurations
 ![16-update-eks-kube-config](https://github.com/prabhakar2020/aws-eks/assets/7165155/3d28ad79-ca1e-4649-bbe0-a5361e086953)
 ##### 3.3. Upload Kubernetes manifest files via CloudShell
-![17-upload-manifest-files](https://github.com/prabhakar2020/aws-eks/assets/7165155/14e133b9-f103-43ba-a763-ede88ec8be1e)
+![17-upload-manifest-files](https://github.com/prabhakar2020/aws-eks/assets/7165155/f078cd4d-23a0-4ea3-9b0c-65a556e61169)
 
 ### 4. Kubernetes Manifest files
 ##### 4.1 Deployment manifest file
